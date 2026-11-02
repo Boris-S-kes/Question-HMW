@@ -1,4 +1,4 @@
-package org.skypro.Question;
+package java.Question;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
